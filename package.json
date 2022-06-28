@@ -1,0 +1,17 @@
+{
+  "name": "saxon-js-param-problem",
+  "version": "1.0.0",
+  "description": "a test",
+  "main": "eg.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt Patterson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "saxon-js": "^2.4.0"
+  }
+}
